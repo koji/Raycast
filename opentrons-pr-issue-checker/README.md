@@ -1,3 +1,2 @@
-# Lee's Productivity Toolbox
+# repo issue tracker
 
-Building an extension together with Lee during a livestream to make him productive
